@@ -31,9 +31,6 @@ Feel free to reach out to me for collaboration, discussions, or just to say hi:
 - [LinkedIn](www.linkedin.com/in/anandu-s-kumar-962948146)
 - [Email](mailto:ananduskumar96@gmail.com)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnanduSK&show_icons=true&count_private=true)
 
 ## 📝 Latest Blog Posts
 
