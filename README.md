@@ -3,6 +3,7 @@
 I'm a passionate Full-Stack Developer with experience in building web applications and solving complex problems. I love coding and exploring new technologies. Here are some of my skills:
 
 - Front-end Development: HTML, CSS, JavaScript, Angular
+- Testing Frameworks: Cypress,Jest,Karma,Xunit
 - Back-end Development: c#
 - Database Management: SQL, MongoDB, CosmosDB
 - DevOps & Deployment: Docker, Azure, ADO
